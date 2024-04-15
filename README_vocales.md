@@ -1,0 +1,1 @@
+Programa que permite verificar la cantidad de vocales que contiene una palabra, ya sea que estas estén escritas en minúscula, mayúscula o incluso lleven tilde, y devolviendo un contador con la cantidad de cada vocal en particular que contenga la palabra
